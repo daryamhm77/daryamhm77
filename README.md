@@ -19,9 +19,11 @@ const darya = {
         languages: ["JavaScript", "TypeScript"],
         frameworks: ["Node.js", "Express.js", "NestJS"],
         databases: ["MongoDB", "PostgreSQL", "Redis"],
-        tools: ["Git", "Docker", "AWS", "Linux"]
+        tools: ["Git", "Docker", "AWS", "Linux"],
+        architectures: ["Microservices"],
+        apis: ["GraphQL", "REST"],
+        practices: ["DevOps", "CI/CD"]
     },
-    currentlyLearning: ["Microservices", "GraphQL", "DevOps"],
     
 };
 ```
@@ -41,6 +43,11 @@ const darya = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### APIs & Architectures
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=kubernetes&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
 
 ### Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
