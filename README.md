@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 سلام! من داریا هستم
+HI, I'M Darya
 
 [![Instagram](https://img.shields.io/badge/Instagram-@daryamhm7-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/daryamhm7)
 [![GitHub](https://img.shields.io/badge/GitHub-daryamhm77-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daryamhm77)
@@ -9,13 +9,12 @@
 
 ---
 
-## 🚀 درباره من
+## About Me
 
 ```javascript
 const darya = {
-    name: "داریا محمدی",
+    name: " Darya Mohammadi",
     role: "Backend Developer",
-    interests: ["کد نویسی", "تکنولوژی", "یادگیری"],
     skills: {
         languages: ["JavaScript", "TypeScript"],
         frameworks: ["Node.js", "Express.js", "NestJS"],
@@ -23,13 +22,13 @@ const darya = {
         tools: ["Git", "Docker", "AWS", "Linux"]
     },
     currentlyLearning: ["Microservices", "GraphQL", "DevOps"],
-    funFact: "عاشق حل مسائل پیچیده و ساختن چیزهای جدید هستم! 😄"
+    
 };
 ```
 
 ---
 
-## 🛠️ تکنولوژی‌های مورد استفاده
+## Tech:
 
 ### Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -64,30 +63,14 @@ const darya = {
 
 ---
 
-## 🎯 اهداف 2024
-
-- [ ] یادگیری GraphQL و Microservices
-- [ ] بهبود مهارت‌های DevOps
-- [ ] مشارکت در پروژه‌های Open Source
-- [ ] ساخت پروژه‌های خلاقانه
-- [ ] نوشتن مقالات تکنیکی
 
 ---
 
-## 💡 پروژه‌های جالب
 
-```bash
-# در حال کار روی...
-git clone https://github.com/daryamhm77/amazing-project.git
-cd amazing-project
-npm install
-npm run dev
-```
 
 ---
 
-## 🤝 بیایید با هم ارتباط برقرار کنیم!
-
+##Contact:
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-@daryamhm7-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/daryamhm7)
@@ -98,20 +81,4 @@ npm run dev
 
 ---
 
-<div align="center">
 
-### 🎉 "کد نویسی فقط شغل نیست، یک هنر است!" 🎨
-
-![Visitor Count](https://profile-counter.glitch.me/daryamhm77/count.svg)
-
-**⭐ اگر این پروفایل را دوست داشتید، یک ستاره بدهید! ⭐**
-
-</div>
-
----
-
-<div align="center">
-
-![Snake animation](https://github.com/daryamhm77/daryamhm77/blob/output/github-contribution-grid-snake.svg)
-
-</div>
