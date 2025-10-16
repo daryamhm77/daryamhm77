@@ -1,9 +1,6 @@
-<div align="center">
+<div align="center" color='red'>
 
 HI, I'M Darya
-
-[![Instagram](https://img.shields.io/badge/Instagram-@daryamhm7-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/daryamhm7)
-[![GitHub](https://img.shields.io/badge/GitHub-daryamhm77-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daryamhm77)
 
 </div>
 
