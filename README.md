@@ -109,13 +109,13 @@ NestJS-based scraping service using Puppeteer and external proxy/data infrastruc
   <a href="mailto:daryaprm88@gmail.com">
     <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=C0C0C0" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/daryamohammadi">
+  <a href="https://www.linkedin.com/in/darya-mohammadi7">
     <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=C0C0C0" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/daryamohammadi">
+  <a href="https://github.com/daryamhm77">
     <img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=C0C0C0" alt="GitHub" />
   </a>
-  <a href="https://t.me/daryamohammadi">
+  <a href="https://t.me/mhm7D8">
     <img src="https://img.shields.io/badge/Telegram-7C3AED?style=for-the-badge&logo=telegram&logoColor=C0C0C0" alt="Telegram" />
   </a>
 </p>
