@@ -8,7 +8,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=EF4444&center=true&vCenter=true&width=800&lines=I+build+scalable+web+systems%2C+not+just+websites.;Backend+%7C+System+Design+%7C+Distributed+Systems;NestJS+%7C+PostgreSQL+%7C+Redis+%7C+Docker;Designing+systems+that+scale+under+pressure." alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
 <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,nextjs,react,postgres,redis,mongodb,docker,kubernetes,aws,rabbitmq&theme=dark" />
 
@@ -52,14 +52,13 @@
 │   → Distributed & event-driven systems                      │
 │   → Database design & optimization                           │
 │   → Caching & performance                                    │
-│   → Authentication & security                               │
 │   → DevOps & containerized infrastructure                    │
 │   → Modern frontend experiences                              │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
 
-My primary ecosystem is **TypeScript / Node.js**, with a strong focus on **NestJS, PostgreSQL, Redis, distributed systems, system design, security, and DevOps**.
+My primary ecosystem is **TypeScript / Node.js**, with a strong focus on **NestJS, PostgreSQL, Redis, distributed systems, system design, and DevOps**.
 
 I enjoy turning complex requirements into **clean, maintainable, production-ready systems**.
 
@@ -142,82 +141,13 @@ I enjoy turning complex requirements into **clean, maintainable, production-read
 
 ---
 
-# 🧠 Architecture & Engineering
+# 🧠 Architecture
 
 <div align="center">
 
-```text
-                    ┌─────────────────┐
-                    │    CLIENTS      │
-                    └────────┬────────┘
-                             │
-                             ▼
-                  ┌─────────────────────┐
-                  │     API GATEWAY     │
-                  └──────────┬──────────┘
-                             │
-             ┌───────────────┼───────────────┐
-             ▼               ▼               ▼
-       ┌───────────┐   ┌───────────┐   ┌───────────┐
-       │   AUTH    │   │   USERS   │   │  ORDERS   │
-       │  SERVICE  │   │  SERVICE  │   │  SERVICE  │
-       └─────┬─────┘   └─────┬─────┘   └─────┬─────┘
-             │               │               │
-             └───────────────┼───────────────┘
-                             ▼
-                    ┌─────────────────┐
-                    │ MESSAGE BROKER  │
-                    │   RabbitMQ      │
-                    └────────┬────────┘
-                             │
-              ┌──────────────┼──────────────┐
-              ▼              ▼              ▼
-          PostgreSQL       Redis         MongoDB
-```
+`Hexagonal Architecture` · `Clean Architecture` · `Modular Architecture`
 
-</div>
-
-### 🧩 Architecture
-
-* Hexagonal Architecture
-* Clean Architecture
-* Modular Architecture
-* Microservices
-* Domain-Driven Design principles
-* SOLID
-* Design Patterns
-* Dependency Inversion
-* Separation of Concerns
-
-### 🔐 Security
-
-* JWT Authentication
-* RBAC / ABAC
-* OAuth / Google Authentication
-* 2FA
-* Session Security
-* XSS Protection
-* CSRF Protection
-* Brute-force Protection
-* API Security
-
----
-
-# ⚡ Engineering Mindset
-
-<div align="center">
-
-|       🧠 Problem      | ⚙️ Approach                                       |
-| :-------------------: | :------------------------------------------------ |
-|      High traffic     | Caching + Connection Pooling + Horizontal Scaling |
-|      Slow queries     | Indexing + Query Optimization + EXPLAIN           |
-|    Race conditions    | Transactions + Locks + Idempotency                |
-| Distributed workflows | Events + Message Queues                           |
-| Service communication | REST + gRPC                                       |
-|      Reliability      | Retries + Timeouts + Circuit Breakers             |
-|     Authentication    | JWT + Sessions + 2FA                              |
-|      Scalability      | Stateless Services + Load Balancing               |
-|    Maintainability    | Clean / Hexagonal Architecture                    |
+`Microservices` · `Domain-Driven Design` · `SOLID` · `Design Patterns`
 
 </div>
 
@@ -251,28 +181,6 @@ Proxy / Data Infrastructure
 
 ---
 
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=daryamhm77&show_icons=true&hide_border=true&bg_color=050505&title_color=EF4444&icon_color=DC2626&text_color=FFFFFF&ring_color=EF4444"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=daryamhm77&theme=dark&hide_border=true&background=050505&ring=EF4444&fire=DC2626&currStreakLabel=EF4444"/>
-
-</div>
-
----
-
-# 🕸️ Contribution Web
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=daryamhm77&bg_color=050505&color=FFFFFF&line=EF4444&point=FFFFFF&area=true&hide_border=true"/>
-
-</div>
-
----
-
 # 🧪 Currently Exploring
 
 ```text
@@ -283,13 +191,12 @@ Proxy / Data Infrastructure
 📡 Event-Driven Architecture
 🔴 Redis Internals
 🐳 Kubernetes & Cloud Infrastructure
-🔐 Backend Security
 🤖 AI Engineering
 ```
 
 ---
 
-# 🕷️ Engineering Principles
+# 🕸️ Engineering Principles
 
 > **Don't optimize prematurely. Measure first.**
 
@@ -303,7 +210,7 @@ Proxy / Data Infrastructure
 
 ---
 
-# 🕸️ Connect With Me
+# 🕷️ Connect With Me
 
 <div align="center">
 
