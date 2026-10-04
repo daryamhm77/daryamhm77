@@ -1,140 +1,318 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:E11D24,40:1E3A8A,70:7C3AED,100:C0C0C0&text=Darya%20Mohammadi&fontSize=42&fontColor=F5F5F7&fontAlignY=38&desc=Backend-focused%20Full-Stack%20Engineer%20·%20With%20Great%20Code%20Comes%20Great%20Responsibility&descSize=14&descAlignY=58&descColor=E8E8ED" width="100%" />
+<!-- Animated Spider Web Header -->
 
-<img src="https://media.giphy.com/media/l41lGvinEgARjB2HI/giphy.gif" width="220" alt="Spider-Man swinging" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B0B0F,35:111827,70:1D4ED8,100:DC2626&text=Darya%20Mohammadi&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=Backend-focused%20Full-Stack%20Engineer&descSize=17&descAlignY=60&descColor=E5E7EB&animation=twinkling" width="100%" />
 
-### Backend-focused Full-Stack Engineer
+<!-- Animated Spider -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=E11D24&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=I+build+scalable+web+systems%2C+not+just+websites.;Swinging+across+backend+%2B+frontend+stacks.;TypeScript+%C2%B7+Node.js+%C2%B7+NestJS+%C2%B7+Next.js)](https://git.io/typing-svg)
+<img src="https://media.giphy.com/media/3oKIPuM1xeVUMZqbq8/giphy.gif" width="90" alt="Spider animation" />
 
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" height="40" alt="web line" />
+# 🕷️ Backend-focused Full-Stack Engineer
 
-I'm a Backend-focused Full-Stack Engineer working primarily across the **TypeScript / Node.js ecosystem**.
+### `I don't just build websites. I build systems.`
 
-I build production-oriented applications with a strong focus on **backend engineering, system design, databases, distributed systems, security, and DevOps** — while also delivering modern frontend experiences with Next.js and React.
+<p>
+  <img src="https://img.shields.io/badge/Backend-DC2626?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-2563EB?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E11D48?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Architecture-111827?style=for-the-badge&logo=diagrams.net&logoColor=white" />
+</p>
 
-<img src="https://media.giphy.com/media/3o7TKM2Ut2j4Z0O1Ak/giphy.gif" width="160" alt="Spider-Man web" />
+<br>
+
+> 🕸️ **Backend is the web. Architecture is the web structure.
+> I build both.**
 
 </div>
 
 ---
 
-## Tech Stack
+# 🕸️ About Me
 
-<img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="48" align="right" alt="Spider-Man" />
+I'm a **Backend-focused Full-Stack Engineer** working primarily across the **TypeScript / Node.js ecosystem**.
 
-### Backend
+I build production-oriented applications with a strong focus on:
+
+```text
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│   🕷️ Backend Engineering                            │
+│   🕸️ System Design                                  │
+│   ⚡ Performance & Scalability                       │
+│   🗄️ Databases                                      │
+│   🔄 Distributed Systems                             │
+│   🔐 Security                                        │
+│   🚀 DevOps & Infrastructure                         │
+│   🧩 Clean & Hexagonal Architecture                 │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
+
+I also build modern frontend experiences using **Next.js, React and Tailwind CSS**.
+
+---
+
+# 🕷️ Tech Stack
+
+## 🕸️ Backend
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-1E3A8A?style=for-the-badge&logo=typescript&logoColor=E11D24" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-1E3A8A?style=for-the-badge&logo=node.js&logoColor=E11D24" alt="Node.js" />
-  <img src="https://img.shields.io/badge/NestJS-1E3A8A?style=for-the-badge&logo=nestjs&logoColor=E11D24" alt="NestJS" />
-  <img src="https://img.shields.io/badge/Express-1E3A8A?style=for-the-badge&logo=express&logoColor=E11D24" alt="Express" />
+<img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=339933" />
+<img src="https://img.shields.io/badge/NestJS-111827?style=for-the-badge&logo=nestjs&logoColor=E0234E" />
+<img src="https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=FFFFFF" />
 </p>
 
-`Node.js` · `NestJS` · `Express` · `TypeScript` · `REST` · `GraphQL` · `gRPC`
+`Node.js` · `NestJS` · `Express` · `TypeScript`
 
-### Frontend
+`REST` · `GraphQL` · `gRPC` · `WebSockets`
+
+---
+
+## 🕸️ Frontend
 
 <p>
-  <img src="https://img.shields.io/badge/Next.js-E11D24?style=for-the-badge&logo=next.js&logoColor=C0C0C0" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-E11D24?style=for-the-badge&logo=react&logoColor=C0C0C0" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-E11D24?style=for-the-badge&logo=tailwindcss&logoColor=C0C0C0" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=next.js&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
 </p>
 
 `Next.js` · `React` · `TypeScript` · `Tailwind CSS`
 
-### Databases & Caching
+---
+
+# 🕷️ Databases & Caching
 
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-1E3A8A?style=for-the-badge&logo=postgresql&logoColor=E11D24" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-1E3A8A?style=for-the-badge&logo=mongodb&logoColor=E11D24" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Redis-1E3A8A?style=for-the-badge&logo=redis&logoColor=E11D24" alt="Redis" />
+<img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+<img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+<img src="https://img.shields.io/badge/Redis-111827?style=for-the-badge&logo=redis&logoColor=DC382D" />
 </p>
 
-`PostgreSQL` · `MongoDB` · `Redis` · `TypeORM` · `Mongoose` · `Sequelize`
+`PostgreSQL` · `MongoDB` · `Redis`
 
-### Distributed Systems
+`TypeORM` · `Mongoose` · `Sequelize`
+
+---
+
+# 🕸️ Distributed Systems
 
 <p>
-  <img src="https://img.shields.io/badge/RabbitMQ-E11D24?style=for-the-badge&logo=rabbitmq&logoColor=C0C0C0" alt="RabbitMQ" />
+<img src="https://img.shields.io/badge/RabbitMQ-111827?style=for-the-badge&logo=rabbitmq&logoColor=FF6600" />
+<img src="https://img.shields.io/badge/gRPC-111827?style=for-the-badge&logo=google&logoColor=4285F4" />
 </p>
-
-`Microservices` · `RabbitMQ` · `gRPC` · `Event-driven Architecture` · `API Gateway`
-
-### DevOps & Infrastructure
-
-<p>
-  <img src="https://img.shields.io/badge/Docker-1E3A8A?style=for-the-badge&logo=docker&logoColor=E11D24" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-1E3A8A?style=for-the-badge&logo=kubernetes&logoColor=E11D24" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/AWS-1E3A8A?style=for-the-badge&logo=amazonwebservices&logoColor=E11D24" alt="AWS" />
-  <img src="https://img.shields.io/badge/Linux-1E3A8A?style=for-the-badge&logo=linux&logoColor=E11D24" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-1E3A8A?style=for-the-badge&logo=git&logoColor=E11D24" alt="Git" />
-</p>
-
-`Docker` · `Docker Compose` · `Kubernetes` · `AWS` · `Linux` · `Nginx` · `CI/CD` · `Git`
-
-### Architecture & Security
 
 ```text
-Architecture                          Security
-├── Hexagonal Architecture            ├── JWT Authentication
-├── Clean Architecture                ├── RBAC / ABAC
-├── Modular Architecture              ├── OAuth / Google Authentication
-├── Microservices                     ├── 2FA
-├── DDD principles                    ├── Session Security
-├── SOLID                             ├── XSS / CSRF Protection
-└── Design Patterns                   └── Brute-force Protection
+                    🕷️
+                     │
+              ┌──────┴──────┐
+              │  API Gateway │
+              └──────┬──────┘
+                     │
+          ┌──────────┼──────────┐
+          │          │          │
+       Auth 🕸️    Users 🕸️   Catalog 🕸️
+          │          │          │
+          └──────────┼──────────┘
+                     │
+                 RabbitMQ
+                     │
+          ┌──────────┼──────────┐
+          │          │          │
+       Payment     Orders     Events
 ```
 
+`Microservices` · `RabbitMQ` · `gRPC`
+
+`Event-driven Architecture` · `API Gateway`
+
+---
+
+# 🕷️ DevOps & Infrastructure
+
+<p>
+<img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED" />
+<img src="https://img.shields.io/badge/Kubernetes-111827?style=for-the-badge&logo=kubernetes&logoColor=326CE5" />
+<img src="https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624" />
+<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" />
+</p>
+
+`Docker` · `Docker Compose` · `Kubernetes`
+
+`AWS` · `Linux` · `Nginx` · `CI/CD` · `Git`
+
+---
+
+# 🧠 Architecture
+
+```text
+                         🕷️ SYSTEM DESIGN 🕷️
+
+                              ┌───────┐
+                              │  API  │
+                              └───┬───┘
+                                  │
+                       ┌──────────┴──────────┐
+                       │                     │
+                  Application            Infrastructure
+                       │                     │
+              ┌────────┼────────┐     ┌─────┼─────┐
+              │        │        │     │     │     │
+           Domain   Use Cases  Ports  Redis RabbitMQ DB
+              │        │        │
+              └────────┼────────┘
+                       │
+                 Adapters
+                       │
+              ┌────────┼────────┐
+              │        │        │
+           HTTP      DB       Events
+```
+
+### 🕸️ Architecture Principles
+
+```text
+├── Hexagonal Architecture
+├── Clean Architecture
+├── Modular Architecture
+├── Microservices
+├── DDD Principles
+├── SOLID
+├── Design Patterns
+├── Event-driven Architecture
+└── Domain-oriented Design
+```
+
+---
+
+# 🔐 Security
+
+```text
+🕷️ Authentication
+├── JWT
+├── OAuth
+├── Google Authentication
+├── 2FA
+└── Session Security
+
+🕸️ Authorization
+├── RBAC
+├── ABAC
+└── Permission-based Access
+
+🛡️ Protection
+├── XSS Protection
+├── CSRF Protection
+├── Brute-force Protection
+├── Rate Limiting
+└── Secure API Design
+```
+
+---
+
+# ⚡ Engineering Mindset
+
 <div align="center">
-  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="180" alt="Spider-Man mask" />
+
+```text
+        THINK
+          ↓
+      DESIGN 🕸️
+          ↓
+       BUILD
+          ↓
+       TEST
+          ↓
+      SECURE 🔐
+          ↓
+      OPTIMIZE ⚡
+          ↓
+       DEPLOY 🚀
+```
+
+### `Clean Code × Strong Architecture × Scalable Systems`
+
 </div>
 
 ---
 
-## Open Source
+# 🕷️ Open Source
 
-### Scraping API
+## 🕸️ Scraping API
 
-NestJS-based scraping service using Puppeteer and external proxy/data infrastructure.
+**NestJS-based scraping service** using Puppeteer and external proxy/data infrastructure.
 
-`NestJS` · `TypeScript` · `Puppeteer` · `REST API`
+<p>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-111827?style=flat-square&logo=fastapi&logoColor=white" />
+</p>
 
-**→ [View on GitHub](https://github.com/daryamhm77/scraping-linkedin-amzon-nestjs)**
+**→ [View Project on GitHub](https://github.com/daryamhm77/scraping-linkedin-amzon-nestjs)**
 
 ---
 
-## Let's Connect
+# 📊 GitHub Activity
 
-<p align="center">
-  <a href="mailto:daryaprm88@gmail.com">
-    <img src="https://img.shields.io/badge/Email-E11D24?style=for-the-badge&logo=gmail&logoColor=C0C0C0" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/darya-mohammadi7">
-    <img src="https://img.shields.io/badge/LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=C0C0C0" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/daryamhm77">
-    <img src="https://img.shields.io/badge/GitHub-E11D24?style=for-the-badge&logo=github&logoColor=C0C0C0" alt="GitHub" />
-  </a>
-  <a href="https://t.me/mhm7D8">
-    <img src="https://img.shields.io/badge/Telegram-1E3A8A?style=for-the-badge&logo=telegram&logoColor=C0C0C0" alt="Telegram" />
-  </a>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=daryamhm77&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E11D48&icon_color=2563EB&text_color=FFFFFF" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=daryamhm77&hide_border=true&background=0D1117&ring=E11D48&fire=2563EB&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=9CA3AF" />
+
+</div>
+
+---
+
+# 🕸️ Contribution Web
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=daryamhm77&theme=darkhub&no-frame=true&no-bg=true&margin-w=10" />
+
+</div>
+
+---
+
+# 🕷️ Let's Connect
+
+<div align="center">
+
+<a href="mailto:daryaprm88@gmail.com">
+<img src="https://img.shields.io/badge/Email-DC2626?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/darya-mohammadi7">
+<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/daryamhm77">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://t.me/mhm7D8">
+<img src="https://img.shields.io/badge/Telegram-0284C7?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/11MKRThbvXxcly/giphy.gif" width="200" alt="Spider-Man swing" />
+## 🕸️ `WITH GREAT CODE COMES GREAT RESPONSIBILITY.`
 
-### `BUILDING SCALABLE WEB SYSTEMS.`
+### **Darya Mohammadi**
 
-**With great power comes great responsibility.**
+#### Backend-focused Full-Stack Engineer
 
-**Darya Mohammadi · Backend-focused Full-Stack Engineer**
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:C0C0C0,30:7C3AED,60:1E3A8A,100:E11D24&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:DC2626,50:2563EB,100:0B0B0F&section=footer&animation=twinkling" width="100%" />
 
 </div>
